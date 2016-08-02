@@ -1,0 +1,39 @@
+div{
+	text-align:center;
+	line-height:20em;
+}
+p{
+	font-family:Cursive;
+	font-size:2em;
+}
+#First{
+	width:50%;
+	height:25em;
+	text-align:center;
+	padding:10px;
+	border:0.2em solid #ff99ff;
+	background-color:rgba(255, 153, 255, 0.3);
+	border-radius:5em;
+	margin:auto;
+}
+#Second{
+	width:50%;
+	height:25em;
+	text-align:center;
+	padding:10px;
+	border:0.2em solid #009900;
+	border-radius:5em;
+	background-color:rgba(0,153,0,0.3);
+	margin:auto;
+	margin-top:100em;
+	
+	
+}
+.lmao{
+	width:150px;
+	height:200px;
+	position:inherit;
+	float:left;
+	margin-top: -10.8em;
+	margin-left: 2em;
+}
