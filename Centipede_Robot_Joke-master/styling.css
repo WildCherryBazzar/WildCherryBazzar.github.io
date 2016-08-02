@@ -1,10 +1,19 @@
+body {
+	background: url(RobotCentipede.jpg)  no-repeat; !important;
+	width: 90%;
+    min-height:100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
 div{
 	text-align:center;
 	line-height:20em;
 }
 p{
 	font-family:Cursive;
-	font-size:2em;
+	font-size:150%;
 }
 #First{
 	width:50%;
