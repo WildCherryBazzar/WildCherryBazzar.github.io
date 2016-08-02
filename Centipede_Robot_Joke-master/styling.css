@@ -46,3 +46,11 @@ p{
 	margin-top: -10.8em;
 	margin-left: 2em;
 }
+.centipie{
+float:left;
+width:9em;
+height:10em;
+position:inherbit;
+margin-top:-10.8em;
+float:right;
+}
